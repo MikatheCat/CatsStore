@@ -1,0 +1,23 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "name": "Fluffy",
+      "price": "200",
+      "img": "https://avatarko.ru/img/kartinka/31/zhivotnye_kot_31003.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Loki",
+      "price": "300",
+      "img": "https://avatarko.ru/img/kartinka/24/kot_shlyapa_23561.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dexter",
+      "price": "400",
+      "img": "https://avatarko.ru/img/kartinka/2/zhivotnye_kot_1919.jpg"
+    }
+  ]
+
+}
